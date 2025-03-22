@@ -1,1 +1,5 @@
-
+[
+    {"id": 1, "name": "Laptop", "description": "High-performance laptop with 16GB RAM."},
+    {"id": 2, "name": "Smartphone", "description": "5G smartphone with 128GB storage."},
+    {"id": 3, "name": "Tablet", "description": "10-inch tablet with long battery life."}
+]
